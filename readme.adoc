@@ -7,9 +7,10 @@
 :icons: font
 :prewrap!:
 
-This guide contains practical material for the tutorial _Multi-Agent Oriented Programming_ at https://ai4industry2023.sciencesconf.org[3rd Summer School on AI Technologies for Trust, Interoperability, Autonomy and Resilience in Industry 4.0].
+This guide contains practical material for the _Multi-Agent Oriented Programming_ lecture at https://ai4industry2023.sciencesconf.org[3rd Summer School on AI Technologies for Trust, Interoperability, Autonomy and Resilience in Industry 4.0].
 
 The contributors to the preparation of these exercises are:
+
 * Andrei Ciortea, University of St. Gallen - Switzerland
 * Jomi Fred Hübner, Federal University of Santa Catarina, Brazil
 * Luis Gustavo Nardin, MINES Saint-Étienne, France
